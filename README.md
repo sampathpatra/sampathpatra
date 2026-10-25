@@ -32,7 +32,7 @@
 
 ### Connect With Me
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@sampathpatra](https://github.com/sampathpatra)
 - LinkedIn: Add your profile link here when ready.
 
 ---
